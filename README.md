@@ -5,15 +5,7 @@ This repository contains my personal learning notes from QA courses and self-stu
 ## Purpose
 To document my learning progress in Software Quality Assurance and Software Testing,
 and to build a structured knowledge base for future reference and interview preparation.
-
-## Topics
-- Software Quality & Software Testing fundamentals
-- SQA vs Testing
-- SDLC & STLC
-- Agile (Scrum, Kanban)
-- Waterfall Model
-- QA Processes & Best Practices
-- Interview Questions
+The complete lecture notes are provided in PDF format and uploaded to this repository.
 
 ## Structure
 Each topic is organized in a separate folder with detailed notes inside.
